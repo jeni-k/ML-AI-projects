@@ -1,2 +1,3 @@
 # ML-AI-projects
 This repository contains all the projects I made using ML and AI algorithms. 
+The prices of the houses in Boston are predicted using linear regression. Next, the CIFAR-10 dataset is used to train the model and recognize previously unseen images and assign them to one of the 10 classes using CNN and ANN.  Using decision tree classification, iris dataset is used and the model predicts the speices of the flower based on the characteristics. Logistics regression is done to predict if the person has a heart disease or not. The Fashion MNIST dataset consists of fashion images and using opencv used for classification.
